@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mirim_Project_0405_1</string>
+    <string name="text1">아래에 이름을 입력하세요.</string>
+    <string name="edit_hint">여기에 채우세요.</string>
+    <string name="btn1">확인</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#D8D8D8"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="버튼입니다."/>
+    <Button
+        android:id="@+id/btn_visibility"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="visibility 속성 연습 화면"/>
+    <Button
+        android:id="@+id/btn_finish"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:backgroundTint="@color/btn_bg"
+        android:text="액티비티가 종료됩니다."/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="#88205839"
+        android:text="버튼입니다."/>
+
+</LinearLayout>
